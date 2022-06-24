@@ -1,0 +1,16 @@
+.title {
+  margin-top: 20px;
+}
+
+.form {
+  width: 75%;
+  margin: auto;
+  padding-top: 20px;
+}
+
+.form input,
+textarea {
+  display: block;
+  margin: 20px auto;
+  width: 60%;
+}
